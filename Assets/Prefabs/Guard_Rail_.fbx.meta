@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 4fb899fc5f9534872a9a76924710c78b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base 1
+    100002: base 1.10
+    100004: base 1.11
+    100006: base 1.12
+    100008: base 1.2
+    100010: base 1.3
+    100012: base 1.4
+    100014: base 1.5
+    100016: base 1.6
+    100018: base 1.7
+    100020: base 1.8
+    100022: base 1.9
+    100024: base 2
+    100026: base 2.10
+    100028: base 2.11
+    100030: base 2.12
+    100032: base 2.2
+    100034: base 2.3
+    100036: base 2.4
+    100038: base 2.5
+    100040: base 2.6
+    100042: base 2.7
+    100044: base 2.8
+    100046: base 2.9
+    100048: Bend.1
+    100050: Bend.1.10
+    100052: Bend.1.11
+    100054: Bend.1.12
+    100056: Bend.1.2
+    100058: Bend.1.3
+    100060: Bend.1.4
+    100062: Bend.1.5
+    100064: Bend.1.6
+    100066: Bend.1.7
+    100068: Bend.1.8
+    100070: Bend.1.9
+    100072: bottom bar
+    100074: bottom bar.2
+    100076: bottom bar.3
+    100078: bottom bar.4
+    100080: bottom bar.5
+    100082: bottom bar.6
+    100084: 'connected 1 '
+    100086: 'connected 2 '
+    100088: 'connector 1 '
+    100090: connector 1 .10
+    100092: connector 1 .11
+    100094: connector 1 .12
+    100096: connector 1 .2
+    100098: connector 1 .3
+    100100: connector 1 .4
+    100102: connector 1 .5
+    100104: connector 1 .6
+    100106: connector 1 .7
+    100108: connector 1 .8
+    100110: connector 1 .9
+    100112: connector 2
+    100114: connector 2.10
+    100116: connector 2.11
+    100118: connector 2.12
+    100120: connector 2.2
+    100122: connector 2.3
+    100124: connector 2.4
+    100126: connector 2.5
+    100128: connector 2.6
+    100130: connector 2.7
+    100132: connector 2.8
+    100134: connector 2.9
+    100136: 'corner 1 '
+    100138: corner 2
+    100140: Cylinder
+    100142: Cylinder.1
+    100144: Cylinder.1.2
+    100146: Cylinder.1.3
+    100148: Cylinder.1.4
+    100150: Cylinder.1.5
+    100152: Cylinder.1.6
+    100154: Cylinder.10
+    100156: Cylinder.10.2
+    100158: Cylinder.10.3
+    100160: Cylinder.10.4
+    100162: Cylinder.10.5
+    100164: Cylinder.10.6
+    100166: Cylinder.11
+    100168: Cylinder.11.2
+    100170: Cylinder.11.3
+    100172: Cylinder.11.4
+    100174: Cylinder.11.5
+    100176: Cylinder.11.6
+    100178: Cylinder.12
+    100180: Cylinder.12.2
+    100182: Cylinder.12.3
+    100184: Cylinder.12.4
+    100186: Cylinder.12.5
+    100188: Cylinder.12.6
+    100190: Cylinder.2
+    100192: Cylinder.2.2
+    100194: Cylinder.2.3
+    100196: Cylinder.2.4
+    100198: Cylinder.2.5
+    100200: Cylinder.2.6
+    100202: Cylinder.2.7
+    100204: Cylinder.3
+    100206: Cylinder.3.2
+    100208: Cylinder.3.3
+    100210: Cylinder.3.4
+    100212: Cylinder.3.5
+    100214: Cylinder.3.6
+    100216: Cylinder.3.7
+    100218: Cylinder.4
+    100220: Cylinder.4.2
+    100222: Cylinder.4.3
+    100224: Cylinder.4.4
+    100226: Cylinder.4.5
+    100228: Cylinder.4.6
+    100230: Cylinder.4.7
+    100232: Cylinder.5
+    100234: Cylinder.5.2
+    100236: Cylinder.5.3
+    100238: Cylinder.5.4
+    100240: Cylinder.5.5
+    100242: Cylinder.5.6
+    100244: Cylinder.5.7
+    100246: Cylinder.6
+    100248: Cylinder.6.2
+    100250: Cylinder.6.3
+    100252: Cylinder.6.4
+    100254: Cylinder.6.5
+    100256: Cylinder.6.6
+    100258: Cylinder.6.7
+    100260: Cylinder.7
+    100262: Cylinder.7.2
+    100264: Cylinder.7.3
+    100266: Cylinder.7.4
+    100268: Cylinder.7.5
+    100270: Cylinder.7.6
+    100272: Cylinder.8
+    100274: Cylinder.8.2
+    100276: Cylinder.8.3
+    100278: Cylinder.8.4
+    100280: Cylinder.8.5
+    100282: Cylinder.8.6
+    100284: Cylinder.9
+    100286: Cylinder.9.2
+    100288: Cylinder.9.3
+    100290: Cylinder.9.4
+    100292: Cylinder.9.5
+    100294: Cylinder.9.6
+    100296: //RootNode
+    100298: 'hinge 1 '
+    100300: hinge 1 .10
+    100302: hinge 1 .11
+    100304: hinge 1 .12
+    100306: hinge 1 .2
+    100308: hinge 1 .3
+    100310: hinge 1 .4
+    100312: hinge 1 .5
+    100314: hinge 1 .6
+    100316: hinge 1 .7
+    100318: hinge 1 .8
+    100320: hinge 1 .9
+    100322: 'hinge 2 '
+    100324: hinge 2 .10
+    100326: hinge 2 .11
+    100328: hinge 2 .12
+    100330: hinge 2 .2
+    100332: hinge 2 .3
+    100334: hinge 2 .4
+    100336: hinge 2 .5
+    100338: hinge 2 .6
+    100340: hinge 2 .7
+    100342: hinge 2 .8
+    100344: hinge 2 .9
+    100346: knocked over
+    100348: 'middle bars '
+    100350: middle bars .2
+    100352: middle bars .3
+    100354: middle bars .4
+    100356: middle bars .5
+    100358: middle bars .6
+    100360: Null
+    100362: Null.10
+    100364: Null.11
+    100366: Null.12
+    100368: Null.13
+    100370: Null.14
+    100372: Null.15
+    100374: Null.16
+    100376: Null.17
+    100378: Null.18
+    100380: Null.19
+    100382: Null.2
+    100384: Null.20
+    100386: Null.21
+    100388: Null.22
+    100390: Null.23
+    100392: Null.24
+    100394: Null.25
+    100396: Null.26
+    100398: Null.27
+    100400: Null.28
+    100402: Null.29
+    100404: Null.3
+    100406: Null.30
+    100408: Null.31
+    100410: Null.32
+    100412: Null.33
+    100414: Null.34
+    100416: Null.35
+    100418: Null.36
+    100420: Null.37
+    100422: Null.38
+    100424: Null.39
+    100426: Null.4
+    100428: Null.40
+    100430: Null.41
+    100432: Null.42
+    100434: Null.43
+    100436: Null.44
+    100438: Null.45
+    100440: Null.46
+    100442: Null.47
+    100444: Null.48
+    100446: Null.5
+    100448: Null.6
+    100450: Null.7
+    100452: Null.8
+    100454: Null.9
+    100456: 'side bar 1 '
+    100458: side bar 1 .10
+    100460: side bar 1 .11
+    100462: side bar 1 .12
+    100464: side bar 1 .2
+    100466: side bar 1 .3
+    100468: side bar 1 .4
+    100470: side bar 1 .5
+    100472: side bar 1 .6
+    100474: side bar 1 .7
+    100476: side bar 1 .8
+    100478: side bar 1 .9
+    100480: side bar 2
+    100482: side bar 2.10
+    100484: side bar 2.11
+    100486: side bar 2.12
+    100488: side bar 2.2
+    100490: side bar 2.3
+    100492: side bar 2.4
+    100494: side bar 2.5
+    100496: side bar 2.6
+    100498: side bar 2.7
+    100500: side bar 2.8
+    100502: side bar 2.9
+    100504: 'single '
+    100506: 'top bar '
+    100508: top bar .2
+    100510: top bar .3
+    100512: top bar .4
+    100514: top bar .5
+    100516: top bar .6
+    400000: base 1
+    400002: base 1.10
+    400004: base 1.11
+    400006: base 1.12
+    400008: base 1.2
+    400010: base 1.3
+    400012: base 1.4
+    400014: base 1.5
+    400016: base 1.6
+    400018: base 1.7
+    400020: base 1.8
+    400022: base 1.9
+    400024: base 2
+    400026: base 2.10
+    400028: base 2.11
+    400030: base 2.12
+    400032: base 2.2
+    400034: base 2.3
+    400036: base 2.4
+    400038: base 2.5
+    400040: base 2.6
+    400042: base 2.7
+    400044: base 2.8
+    400046: base 2.9
+    400048: Bend.1
+    400050: Bend.1.10
+    400052: Bend.1.11
+    400054: Bend.1.12
+    400056: Bend.1.2
+    400058: Bend.1.3
+    400060: Bend.1.4
+    400062: Bend.1.5
+    400064: Bend.1.6
+    400066: Bend.1.7
+    400068: Bend.1.8
+    400070: Bend.1.9
+    400072: bottom bar
+    400074: bottom bar.2
+    400076: bottom bar.3
+    400078: bottom bar.4
+    400080: bottom bar.5
+    400082: bottom bar.6
+    400084: 'connected 1 '
+    400086: 'connected 2 '
+    400088: 'connector 1 '
+    400090: connector 1 .10
+    400092: connector 1 .11
+    400094: connector 1 .12
+    400096: connector 1 .2
+    400098: connector 1 .3
+    400100: connector 1 .4
+    400102: connector 1 .5
+    400104: connector 1 .6
+    400106: connector 1 .7
+    400108: connector 1 .8
+    400110: connector 1 .9
+    400112: connector 2
+    400114: connector 2.10
+    400116: connector 2.11
+    400118: connector 2.12
+    400120: connector 2.2
+    400122: connector 2.3
+    400124: connector 2.4
+    400126: connector 2.5
+    400128: connector 2.6
+    400130: connector 2.7
+    400132: connector 2.8
+    400134: connector 2.9
+    400136: 'corner 1 '
+    400138: corner 2
+    400140: Cylinder
+    400142: Cylinder.1
+    400144: Cylinder.1.2
+    400146: Cylinder.1.3
+    400148: Cylinder.1.4
+    400150: Cylinder.1.5
+    400152: Cylinder.1.6
+    400154: Cylinder.10
+    400156: Cylinder.10.2
+    400158: Cylinder.10.3
+    400160: Cylinder.10.4
+    400162: Cylinder.10.5
+    400164: Cylinder.10.6
+    400166: Cylinder.11
+    400168: Cylinder.11.2
+    400170: Cylinder.11.3
+    400172: Cylinder.11.4
+    400174: Cylinder.11.5
+    400176: Cylinder.11.6
+    400178: Cylinder.12
+    400180: Cylinder.12.2
+    400182: Cylinder.12.3
+    400184: Cylinder.12.4
+    400186: Cylinder.12.5
+    400188: Cylinder.12.6
+    400190: Cylinder.2
+    400192: Cylinder.2.2
+    400194: Cylinder.2.3
+    400196: Cylinder.2.4
+    400198: Cylinder.2.5
+    400200: Cylinder.2.6
+    400202: Cylinder.2.7
+    400204: Cylinder.3
+    400206: Cylinder.3.2
+    400208: Cylinder.3.3
+    400210: Cylinder.3.4
+    400212: Cylinder.3.5
+    400214: Cylinder.3.6
+    400216: Cylinder.3.7
+    400218: Cylinder.4
+    400220: Cylinder.4.2
+    400222: Cylinder.4.3
+    400224: Cylinder.4.4
+    400226: Cylinder.4.5
+    400228: Cylinder.4.6
+    400230: Cylinder.4.7
+    400232: Cylinder.5
+    400234: Cylinder.5.2
+    400236: Cylinder.5.3
+    400238: Cylinder.5.4
+    400240: Cylinder.5.5
+    400242: Cylinder.5.6
+    400244: Cylinder.5.7
+    400246: Cylinder.6
+    400248: Cylinder.6.2
+    400250: Cylinder.6.3
+    400252: Cylinder.6.4
+    400254: Cylinder.6.5
+    400256: Cylinder.6.6
+    400258: Cylinder.6.7
+    400260: Cylinder.7
+    400262: Cylinder.7.2
+    400264: Cylinder.7.3
+    400266: Cylinder.7.4
+    400268: Cylinder.7.5
+    400270: Cylinder.7.6
+    400272: Cylinder.8
+    400274: Cylinder.8.2
+    400276: Cylinder.8.3
+    400278: Cylinder.8.4
+    400280: Cylinder.8.5
+    400282: Cylinder.8.6
+    400284: Cylinder.9
+    400286: Cylinder.9.2
+    400288: Cylinder.9.3
+    400290: Cylinder.9.4
+    400292: Cylinder.9.5
+    400294: Cylinder.9.6
+    400296: //RootNode
+    400298: 'hinge 1 '
+    400300: hinge 1 .10
+    400302: hinge 1 .11
+    400304: hinge 1 .12
+    400306: hinge 1 .2
+    400308: hinge 1 .3
+    400310: hinge 1 .4
+    400312: hinge 1 .5
+    400314: hinge 1 .6
+    400316: hinge 1 .7
+    400318: hinge 1 .8
+    400320: hinge 1 .9
+    400322: 'hinge 2 '
+    400324: hinge 2 .10
+    400326: hinge 2 .11
+    400328: hinge 2 .12
+    400330: hinge 2 .2
+    400332: hinge 2 .3
+    400334: hinge 2 .4
+    400336: hinge 2 .5
+    400338: hinge 2 .6
+    400340: hinge 2 .7
+    400342: hinge 2 .8
+    400344: hinge 2 .9
+    400346: knocked over
+    400348: 'middle bars '
+    400350: middle bars .2
+    400352: middle bars .3
+    400354: middle bars .4
+    400356: middle bars .5
+    400358: middle bars .6
+    400360: Null
+    400362: Null.10
+    400364: Null.11
+    400366: Null.12
+    400368: Null.13
+    400370: Null.14
+    400372: Null.15
+    400374: Null.16
+    400376: Null.17
+    400378: Null.18
+    400380: Null.19
+    400382: Null.2
+    400384: Null.20
+    400386: Null.21
+    400388: Null.22
+    400390: Null.23
+    400392: Null.24
+    400394: Null.25
+    400396: Null.26
+    400398: Null.27
+    400400: Null.28
+    400402: Null.29
+    400404: Null.3
+    400406: Null.30
+    400408: Null.31
+    400410: Null.32
+    400412: Null.33
+    400414: Null.34
+    400416: Null.35
+    400418: Null.36
+    400420: Null.37
+    400422: Null.38
+    400424: Null.39
+    400426: Null.4
+    400428: Null.40
+    400430: Null.41
+    400432: Null.42
+    400434: Null.43
+    400436: Null.44
+    400438: Null.45
+    400440: Null.46
+    400442: Null.47
+    400444: Null.48
+    400446: Null.5
+    400448: Null.6
+    400450: Null.7
+    400452: Null.8
+    400454: Null.9
+    400456: 'side bar 1 '
+    400458: side bar 1 .10
+    400460: side bar 1 .11
+    400462: side bar 1 .12
+    400464: side bar 1 .2
+    400466: side bar 1 .3
+    400468: side bar 1 .4
+    400470: side bar 1 .5
+    400472: side bar 1 .6
+    400474: side bar 1 .7
+    400476: side bar 1 .8
+    400478: side bar 1 .9
+    400480: side bar 2
+    400482: side bar 2.10
+    400484: side bar 2.11
+    400486: side bar 2.12
+    400488: side bar 2.2
+    400490: side bar 2.3
+    400492: side bar 2.4
+    400494: side bar 2.5
+    400496: side bar 2.6
+    400498: side bar 2.7
+    400500: side bar 2.8
+    400502: side bar 2.9
+    400504: 'single '
+    400506: 'top bar '
+    400508: top bar .2
+    400510: top bar .3
+    400512: top bar .4
+    400514: top bar .5
+    400516: top bar .6
+    2100000: Mat
+    2300000: base 1.10
+    2300002: base 1.12
+    2300004: base 1.2
+    2300006: base 1.4
+    2300008: base 1.6
+    2300010: base 1.8
+    2300012: base 2.10
+    2300014: base 2.12
+    2300016: base 2.2
+    2300018: base 2.4
+    2300020: base 2.6
+    2300022: base 2.8
+    2300024: bottom bar
+    2300026: bottom bar.2
+    2300028: bottom bar.3
+    2300030: bottom bar.4
+    2300032: bottom bar.5
+    2300034: bottom bar.6
+    2300036: connector 1 .10
+    2300038: connector 1 .12
+    2300040: connector 1 .2
+    2300042: connector 1 .4
+    2300044: connector 1 .6
+    2300046: connector 1 .8
+    2300048: connector 2.10
+    2300050: connector 2.12
+    2300052: connector 2.2
+    2300054: connector 2.4
+    2300056: connector 2.6
+    2300058: connector 2.8
+    2300060: Cylinder
+    2300062: Cylinder.1
+    2300064: Cylinder.1.2
+    2300066: Cylinder.1.3
+    2300068: Cylinder.1.4
+    2300070: Cylinder.1.5
+    2300072: Cylinder.1.6
+    2300074: Cylinder.10
+    2300076: Cylinder.10.2
+    2300078: Cylinder.10.3
+    2300080: Cylinder.10.4
+    2300082: Cylinder.10.5
+    2300084: Cylinder.10.6
+    2300086: Cylinder.11
+    2300088: Cylinder.11.2
+    2300090: Cylinder.11.3
+    2300092: Cylinder.11.4
+    2300094: Cylinder.11.5
+    2300096: Cylinder.11.6
+    2300098: Cylinder.12
+    2300100: Cylinder.12.2
+    2300102: Cylinder.12.3
+    2300104: Cylinder.12.4
+    2300106: Cylinder.12.5
+    2300108: Cylinder.12.6
+    2300110: Cylinder.2
+    2300112: Cylinder.2.2
+    2300114: Cylinder.2.3
+    2300116: Cylinder.2.4
+    2300118: Cylinder.2.5
+    2300120: Cylinder.2.6
+    2300122: Cylinder.2.7
+    2300124: Cylinder.3
+    2300126: Cylinder.3.2
+    2300128: Cylinder.3.3
+    2300130: Cylinder.3.4
+    2300132: Cylinder.3.5
+    2300134: Cylinder.3.6
+    2300136: Cylinder.3.7
+    2300138: Cylinder.4
+    2300140: Cylinder.4.2
+    2300142: Cylinder.4.3
+    2300144: Cylinder.4.4
+    2300146: Cylinder.4.5
+    2300148: Cylinder.4.6
+    2300150: Cylinder.4.7
+    2300152: Cylinder.5
+    2300154: Cylinder.5.2
+    2300156: Cylinder.5.3
+    2300158: Cylinder.5.4
+    2300160: Cylinder.5.5
+    2300162: Cylinder.5.6
+    2300164: Cylinder.5.7
+    2300166: Cylinder.6
+    2300168: Cylinder.6.2
+    2300170: Cylinder.6.3
+    2300172: Cylinder.6.4
+    2300174: Cylinder.6.5
+    2300176: Cylinder.6.6
+    2300178: Cylinder.6.7
+    2300180: Cylinder.7
+    2300182: Cylinder.7.2
+    2300184: Cylinder.7.3
+    2300186: Cylinder.7.4
+    2300188: Cylinder.7.5
+    2300190: Cylinder.7.6
+    2300192: Cylinder.8
+    2300194: Cylinder.8.2
+    2300196: Cylinder.8.3
+    2300198: Cylinder.8.4
+    2300200: Cylinder.8.5
+    2300202: Cylinder.8.6
+    2300204: Cylinder.9
+    2300206: Cylinder.9.2
+    2300208: Cylinder.9.3
+    2300210: Cylinder.9.4
+    2300212: Cylinder.9.5
+    2300214: Cylinder.9.6
+    2300216: hinge 1 .10
+    2300218: hinge 1 .12
+    2300220: hinge 1 .2
+    2300222: hinge 1 .4
+    2300224: hinge 1 .6
+    2300226: hinge 1 .8
+    2300228: hinge 2 .10
+    2300230: hinge 2 .12
+    2300232: hinge 2 .2
+    2300234: hinge 2 .4
+    2300236: hinge 2 .6
+    2300238: hinge 2 .8
+    2300240: 'middle bars '
+    2300242: middle bars .2
+    2300244: middle bars .3
+    2300246: middle bars .4
+    2300248: middle bars .5
+    2300250: middle bars .6
+    2300252: side bar 1 .10
+    2300254: side bar 1 .12
+    2300256: side bar 1 .2
+    2300258: side bar 1 .4
+    2300260: side bar 1 .6
+    2300262: side bar 1 .8
+    2300264: side bar 2.10
+    2300266: side bar 2.12
+    2300268: side bar 2.2
+    2300270: side bar 2.4
+    2300272: side bar 2.6
+    2300274: side bar 2.8
+    2300276: 'top bar '
+    2300278: top bar .2
+    2300280: top bar .3
+    2300282: top bar .4
+    2300284: top bar .5
+    2300286: top bar .6
+    3300000: base 1.10
+    3300002: base 1.12
+    3300004: base 1.2
+    3300006: base 1.4
+    3300008: base 1.6
+    3300010: base 1.8
+    3300012: base 2.10
+    3300014: base 2.12
+    3300016: base 2.2
+    3300018: base 2.4
+    3300020: base 2.6
+    3300022: base 2.8
+    3300024: bottom bar
+    3300026: bottom bar.2
+    3300028: bottom bar.3
+    3300030: bottom bar.4
+    3300032: bottom bar.5
+    3300034: bottom bar.6
+    3300036: connector 1 .10
+    3300038: connector 1 .12
+    3300040: connector 1 .2
+    3300042: connector 1 .4
+    3300044: connector 1 .6
+    3300046: connector 1 .8
+    3300048: connector 2.10
+    3300050: connector 2.12
+    3300052: connector 2.2
+    3300054: connector 2.4
+    3300056: connector 2.6
+    3300058: connector 2.8
+    3300060: Cylinder
+    3300062: Cylinder.1
+    3300064: Cylinder.1.2
+    3300066: Cylinder.1.3
+    3300068: Cylinder.1.4
+    3300070: Cylinder.1.5
+    3300072: Cylinder.1.6
+    3300074: Cylinder.10
+    3300076: Cylinder.10.2
+    3300078: Cylinder.10.3
+    3300080: Cylinder.10.4
+    3300082: Cylinder.10.5
+    3300084: Cylinder.10.6
+    3300086: Cylinder.11
+    3300088: Cylinder.11.2
+    3300090: Cylinder.11.3
+    3300092: Cylinder.11.4
+    3300094: Cylinder.11.5
+    3300096: Cylinder.11.6
+    3300098: Cylinder.12
+    3300100: Cylinder.12.2
+    3300102: Cylinder.12.3
+    3300104: Cylinder.12.4
+    3300106: Cylinder.12.5
+    3300108: Cylinder.12.6
+    3300110: Cylinder.2
+    3300112: Cylinder.2.2
+    3300114: Cylinder.2.3
+    3300116: Cylinder.2.4
+    3300118: Cylinder.2.5
+    3300120: Cylinder.2.6
+    3300122: Cylinder.2.7
+    3300124: Cylinder.3
+    3300126: Cylinder.3.2
+    3300128: Cylinder.3.3
+    3300130: Cylinder.3.4
+    3300132: Cylinder.3.5
+    3300134: Cylinder.3.6
+    3300136: Cylinder.3.7
+    3300138: Cylinder.4
+    3300140: Cylinder.4.2
+    3300142: Cylinder.4.3
+    3300144: Cylinder.4.4
+    3300146: Cylinder.4.5
+    3300148: Cylinder.4.6
+    3300150: Cylinder.4.7
+    3300152: Cylinder.5
+    3300154: Cylinder.5.2
+    3300156: Cylinder.5.3
+    3300158: Cylinder.5.4
+    3300160: Cylinder.5.5
+    3300162: Cylinder.5.6
+    3300164: Cylinder.5.7
+    3300166: Cylinder.6
+    3300168: Cylinder.6.2
+    3300170: Cylinder.6.3
+    3300172: Cylinder.6.4
+    3300174: Cylinder.6.5
+    3300176: Cylinder.6.6
+    3300178: Cylinder.6.7
+    3300180: Cylinder.7
+    3300182: Cylinder.7.2
+    3300184: Cylinder.7.3
+    3300186: Cylinder.7.4
+    3300188: Cylinder.7.5
+    3300190: Cylinder.7.6
+    3300192: Cylinder.8
+    3300194: Cylinder.8.2
+    3300196: Cylinder.8.3
+    3300198: Cylinder.8.4
+    3300200: Cylinder.8.5
+    3300202: Cylinder.8.6
+    3300204: Cylinder.9
+    3300206: Cylinder.9.2
+    3300208: Cylinder.9.3
+    3300210: Cylinder.9.4
+    3300212: Cylinder.9.5
+    3300214: Cylinder.9.6
+    3300216: hinge 1 .10
+    3300218: hinge 1 .12
+    3300220: hinge 1 .2
+    3300222: hinge 1 .4
+    3300224: hinge 1 .6
+    3300226: hinge 1 .8
+    3300228: hinge 2 .10
+    3300230: hinge 2 .12
+    3300232: hinge 2 .2
+    3300234: hinge 2 .4
+    3300236: hinge 2 .6
+    3300238: hinge 2 .8
+    3300240: 'middle bars '
+    3300242: middle bars .2
+    3300244: middle bars .3
+    3300246: middle bars .4
+    3300248: middle bars .5
+    3300250: middle bars .6
+    3300252: side bar 1 .10
+    3300254: side bar 1 .12
+    3300256: side bar 1 .2
+    3300258: side bar 1 .4
+    3300260: side bar 1 .6
+    3300262: side bar 1 .8
+    3300264: side bar 2.10
+    3300266: side bar 2.12
+    3300268: side bar 2.2
+    3300270: side bar 2.4
+    3300272: side bar 2.6
+    3300274: side bar 2.8
+    3300276: 'top bar '
+    3300278: top bar .2
+    3300280: top bar .3
+    3300282: top bar .4
+    3300284: top bar .5
+    3300286: top bar .6
+    4300000: 'middle bars '
+    4300002: Cylinder.12
+    4300004: Cylinder.11
+    4300006: Cylinder.10
+    4300008: Cylinder.9
+    4300010: Cylinder.8
+    4300012: Cylinder.7
+    4300014: Cylinder.6
+    4300016: Cylinder.5
+    4300018: Cylinder.4
+    4300020: Cylinder.3
+    4300022: Cylinder.2
+    4300024: Cylinder.1
+    4300026: Cylinder
+    4300028: connector 1 .2
+    4300030: connector 2.2
+    4300032: hinge 2 .2
+    4300034: hinge 1 .2
+    4300036: 'top bar '
+    4300038: side bar 2.2
+    4300040: side bar 1 .2
+    4300042: bottom bar
+    4300044: base 2.2
+    4300046: base 1.2
+    4300048: middle bars .2
+    4300050: Cylinder.12.2
+    4300052: Cylinder.11.2
+    4300054: Cylinder.10.2
+    4300056: Cylinder.9.2
+    4300058: Cylinder.8.2
+    4300060: Cylinder.7.2
+    4300062: Cylinder.6.2
+    4300064: Cylinder.5.2
+    4300066: Cylinder.4.2
+    4300068: Cylinder.3.2
+    4300070: Cylinder.2.2
+    4300072: Cylinder.1.2
+    4300074: Cylinder.2.3
+    4300076: connector 1 .4
+    4300078: connector 2.4
+    4300080: hinge 2 .4
+    4300082: hinge 1 .4
+    4300084: top bar .2
+    4300086: side bar 2.4
+    4300088: side bar 1 .4
+    4300090: bottom bar.2
+    4300092: base 2.4
+    4300094: base 1.4
+    4300096: middle bars .3
+    4300098: Cylinder.12.3
+    4300100: Cylinder.11.3
+    4300102: Cylinder.10.3
+    4300104: Cylinder.9.3
+    4300106: Cylinder.8.3
+    4300108: Cylinder.7.3
+    4300110: Cylinder.6.3
+    4300112: Cylinder.5.3
+    4300114: Cylinder.4.3
+    4300116: Cylinder.3.3
+    4300118: Cylinder.2.4
+    4300120: Cylinder.1.3
+    4300122: Cylinder.3.4
+    4300124: connector 1 .6
+    4300126: connector 2.6
+    4300128: hinge 2 .6
+    4300130: hinge 1 .6
+    4300132: top bar .3
+    4300134: side bar 2.6
+    4300136: side bar 1 .6
+    4300138: bottom bar.3
+    4300140: base 2.6
+    4300142: base 1.6
+    4300144: middle bars .4
+    4300146: Cylinder.12.4
+    4300148: Cylinder.11.4
+    4300150: Cylinder.10.4
+    4300152: Cylinder.9.4
+    4300154: Cylinder.8.4
+    4300156: Cylinder.7.4
+    4300158: Cylinder.6.4
+    4300160: Cylinder.5.4
+    4300162: Cylinder.4.4
+    4300164: Cylinder.3.5
+    4300166: Cylinder.2.5
+    4300168: Cylinder.1.4
+    4300170: Cylinder.4.5
+    4300172: connector 1 .8
+    4300174: connector 2.8
+    4300176: hinge 2 .8
+    4300178: hinge 1 .8
+    4300180: top bar .4
+    4300182: side bar 2.8
+    4300184: side bar 1 .8
+    4300186: bottom bar.4
+    4300188: base 2.8
+    4300190: base 1.8
+    4300192: middle bars .5
+    4300194: Cylinder.12.5
+    4300196: Cylinder.11.5
+    4300198: Cylinder.10.5
+    4300200: Cylinder.9.5
+    4300202: Cylinder.8.5
+    4300204: Cylinder.7.5
+    4300206: Cylinder.6.5
+    4300208: Cylinder.5.5
+    4300210: Cylinder.4.6
+    4300212: Cylinder.3.6
+    4300214: Cylinder.2.6
+    4300216: Cylinder.1.5
+    4300218: Cylinder.5.6
+    4300220: connector 1 .10
+    4300222: connector 2.10
+    4300224: hinge 2 .10
+    4300226: hinge 1 .10
+    4300228: top bar .5
+    4300230: side bar 2.10
+    4300232: side bar 1 .10
+    4300234: bottom bar.5
+    4300236: base 2.10
+    4300238: base 1.10
+    4300240: middle bars .6
+    4300242: Cylinder.12.6
+    4300244: Cylinder.11.6
+    4300246: Cylinder.10.6
+    4300248: Cylinder.9.6
+    4300250: Cylinder.8.6
+    4300252: Cylinder.7.6
+    4300254: Cylinder.6.6
+    4300256: Cylinder.5.7
+    4300258: Cylinder.4.7
+    4300260: Cylinder.3.7
+    4300262: Cylinder.2.7
+    4300264: Cylinder.1.6
+    4300266: Cylinder.6.7
+    4300268: connector 1 .12
+    4300270: connector 2.12
+    4300272: hinge 2 .12
+    4300274: hinge 1 .12
+    4300276: top bar .6
+    4300278: side bar 2.12
+    4300280: side bar 1 .12
+    4300282: bottom bar.6
+    4300284: base 2.12
+    4300286: base 1.12
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
